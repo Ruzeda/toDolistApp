@@ -1,18 +1,15 @@
-const summaryItem = ({
-    itemName,
-    itemValue,
-}: {
-    itemName: string;
-    itemValue: number;
-}) => {
+import SummaryItem from "./SummaryItem";
+
+const Summary = () => {
     return (
-       <article className='bg-green-50 w-36 rounded-sm flex justify-between p-2'>
-        <h3 className="font-bold">{itemName}</h3>
-        <span className='g-green-900 text-white px-2 rounded-sm'>
-            {itemValue}
-        </span>
-       </article>
+        <>
+            <div className="flex justify-between">
+                <SummaryItem itemName={"Total"} itemValue={3} />
+                <SummaryItem itemName={"To do"} itemValue={2} />
+                <SummaryItem itemName={"Done"} itemValue={1} />
+            </div>
+        </>
     );
 };
 
-export default summaryItem;
+export default Summary;
