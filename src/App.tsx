@@ -1,8 +1,7 @@
 import Container from "./components/Container";
-//import Input from "./components/Input";
-//import Summary from "./components/Summary/Summary";
-//import Tasks from "./components/Tasks/Tasks";
-import "../src/App.css";
+import Input from "./components/Input.tsx";
+import Summary from "./components/Summary/Summary.tsx";
+import Tasks from "./components/Tasks/Tasks.tsx";
 
 function App() {
   return (
