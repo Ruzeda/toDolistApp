@@ -1,7 +1,7 @@
 import Container from "./components/Container";
-import Input from "./components/Input.tsx";
+import InputContainer from "./components/Input.tsx";
 import Summary from "./components/Summary/Summary.tsx";
-import Tasks from "./components/Tasks/Tasks.tsx";
+import Task from "./components/Tasks/Task.tsx";
 
 function App() {
   return (
@@ -12,10 +12,10 @@ function App() {
             <Summary />
           </Container>
           <Container>
-            <Input />
+            <InputContainer />
           </Container>
           <Container title={"Tasks"}>
-            <Tasks />
+            <Task />
           </Container>
         </div>
       </div>
