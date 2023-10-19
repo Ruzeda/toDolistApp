@@ -15,6 +15,7 @@ Here are the technologies, libraries, and tools that power this project:
 - Tailwind CSS: A utility-first CSS framework for rapid UI development.
 - Vite: A fast and versatile build tool for web development.
 - TypeScript: A typed superset of JavaScript that enhances code quality and reliability.
+- Material-UI: A popular UI framework that provides pre-built React components for creating modern, responsive, and stylish user interfaces.
 
 ## Getting Started
 
