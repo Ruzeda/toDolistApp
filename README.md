@@ -37,7 +37,7 @@ npm run dev
 ```
 
 ## Unsolved Problems
-Issue 1: Installing and integrating Tailwind CSS presented a challenging learning curve.
+Issue 1: Installing and integrating Tailwind CSS presented a challenging learning curve. At present, I'm encountering three errors related to Tailwind CSS.
 
  Issue 2: Setting up the development environment proved to be initially complex, as I initially used Create React App.
 
