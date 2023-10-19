@@ -11,18 +11,6 @@ export interface Task {
   id: string; 
 }
 
-const initialTasks = [{
-  name: "Task one",
-  done: false,
-  id: uuidv4(),
-},
-{
-  name: "Task two",
-  done: false,
-  id: uuidv4(),
-},
-];
-
 function App() {
   const [tasks, setTasks] = useState<Task[]>([]);
 
