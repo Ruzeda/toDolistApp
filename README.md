@@ -37,15 +37,11 @@ npm run dev
 ```
 
 ## Unsolved Problems
-Unsolved Issues: List any known issues or unsolved problems in this project. This could include features you intended to implement but haven't yet or any known bugs.
+Issue 1: Installing and integrating Tailwind CSS presented a challenging learning curve.
 
-It was a challenging knowing how to install and implement the technology tailwind.css
-
-I had a difficult time with setting up the environment.  Initially I would use create-react-app.
+ Issue 2: Setting up the development environment proved to be initially complex, as I initially used Create React App.
 
 ## Future Enhancements
-Planned Enhancements: Describe any planned future features, enhancements, or improvements you intend to make to the project.
-
 Task Notes: Allow users to attach notes or additional details to their tasks. This can be helpful for adding context to tasks.
 
 User Authentication: Add user authentication to allow users to create accounts and securely store their to-do lists. This can be helpful for personalization and data persistence.
