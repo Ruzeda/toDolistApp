@@ -50,4 +50,4 @@ Feature 2: Outline the second enhancement.
 
 ## Hosted App
 
-You can access the hosted version of this app on [Render](https://to-do-list-app-pzg8.onrender.com/).
+You can access the hosted version of this app on [Git Hub Pages ](https://ruzeda.github.io/toDolistApp/).
