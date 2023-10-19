@@ -9,7 +9,7 @@ const Container = ({
         <div className="bg-pink-600 p-4 border shadow rounded-md">
             {/* Render the 'title' if it's provided. */}
             {title && <h2 className="text-2xl pb-2 text-white">{title}</h2>}
-            <div>{children}</div> // Render the 'children' within the container.
+            <div>{children}</div>
         </div>
     );
 };
