@@ -39,15 +39,21 @@ npm run dev
 ## Unsolved Problems
 Unsolved Issues: List any known issues or unsolved problems in this project. This could include features you intended to implement but haven't yet or any known bugs.
 
-Issue 1
-Issue 2
+It was a challenging knowing how to install and implement the technology tailwind.css
+
+I had a difficult time with setting up the environment.  Initially I would use create-react-app.
 
 ## Future Enhancements
 Planned Enhancements: Describe any planned future features, enhancements, or improvements you intend to make to the project.
 
-Feature 1: Provide a detailed explanation of the first planned feature.
-Feature 2: Outline the second enhancement.
+Task Notes: Allow users to attach notes or additional details to their tasks. This can be helpful for adding context to tasks.
+
+User Authentication: Add user authentication to allow users to create accounts and securely store their to-do lists. This can be helpful for personalization and data persistence.
+
+Recurring Tasks: Implement the ability to create recurring tasks (e.g., daily, weekly, monthly) for repetitive chores or responsibilities.
+
+
 
 ## Hosted App
 
-You can access the hosted version of this app on [Git Hub Pages ](https://ruzeda.github.io/toDolistApp/).
+You can access the hosted version of this app on [Netlify](https://ruzedatodolistapp.netlify.app/).
