@@ -6,7 +6,7 @@ const Container = ({
     title?: string
 }) => {
     return (
-        <div className="bg-green-600 p-4 border shadow rounded-md">
+        <div className="bg-pink-600 p-4 border shadow rounded-md">
             {title && <h2 className="text-2xl pb-2 text-white">{title}</h2>}
             <div>{children}</div>
             </div>

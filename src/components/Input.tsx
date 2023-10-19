@@ -25,7 +25,7 @@ const InputContainer = ({
             </div>
             <button
                 type='submit'
-                className="bg-green-100 rounded-lg hover:bg-green-200 p-1"
+                className="bg-pink-100 rounded-lg hover:bg-pink-200 p-1"
             >
             Add Task
             </button>

@@ -22,7 +22,7 @@ const TaskItem = ({
                 {name}
             </div>
             <button
-                className="bg-green-200 hover:bg-green-300 rounded-lg p-1 px-3"
+                className="bg-pink-200 hover:bg-pink-300 rounded-lg p-1 px-3"
                 type="button"
                 onClick={() => handleDelete(id)}
             >
