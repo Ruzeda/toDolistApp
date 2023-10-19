@@ -1,28 +1,52 @@
-# React + TypeScript + Vite
+# To Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Introduction
 
-Currently, two official plugins are available:
+Welcome to the To Do List App, a practical tool designed to help you organize your tasks and stay productive. This project is your personal assistant for keeping track of your to-do list efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Project Screenshot](./src/assets/toDoAppFinalScreenshot.png)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Technologies Used
 
-- Configure the top-level `parserOptions` property like this:
+Here are the technologies, libraries, and tools that power this project:
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+- React: A popular JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for rapid UI development.
+- Vite: A fast and versatile build tool for web development.
+- TypeScript: A typed superset of JavaScript that enhances code quality and reliability.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/Ruzeda/toDolistApp.git
+
+# Change to the project directory
+cd your-project
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# toDolistApp
+## Unsolved Problems
+Unsolved Issues: List any known issues or unsolved problems in this project. This could include features you intended to implement but haven't yet or any known bugs.
+
+Issue 1
+Issue 2
+
+## Future Enhancements
+Planned Enhancements: Describe any planned future features, enhancements, or improvements you intend to make to the project.
+
+Feature 1: Provide a detailed explanation of the first planned feature.
+Feature 2: Outline the second enhancement.
+
+## Hosted App
+
+You can access the hosted version of this app on [Render](https://to-do-list-app-pzg8.onrender.com/).
